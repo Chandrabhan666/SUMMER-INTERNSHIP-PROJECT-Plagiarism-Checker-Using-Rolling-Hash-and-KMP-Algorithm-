@@ -1,0 +1,1 @@
+# SUMMER-INTERNSHIP-PROJECT-Plagiarism-Checker-Using-Rolling-Hash-and-KMP-Algorithm-
